@@ -3,6 +3,7 @@ package abstraction;
 public class v1 extends venu{
     void showcity()
      {
+
          System.out.println("welcome 2 moolya in hydrabad");
     }
 

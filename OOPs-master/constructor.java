@@ -1,7 +1,7 @@
 package oops;
 
 class test2{
-	private int id;			// changing the access modifier to private will directly not accept the values 
+	private int id;			// changing the access modifier to private will directly not accept the values
 	private String name;	// in the form of t.id
 	
 	
@@ -31,6 +31,7 @@ public class constructor {
 	public static void main(String[] args) {
 		
 		test2 t= new test2(23,"sushanta");
+
 //		t.setname("sunil");    // this both t.setname("sunil") and t.setid(1) is used for method over riding
 //		t.setid(1);
 		System.out.println(t.getid());

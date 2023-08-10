@@ -4,6 +4,7 @@ import org.w3c.dom.ls.LSOutput;
 
 public class access_modifier1 {
      public void sum(int a,int b){
+
          System.out.println(a+b);
      }
 

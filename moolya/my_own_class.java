@@ -1,7 +1,7 @@
 package moolya;
 class nandy{
       int x;
-    public  void  cal(){    // static key----> note it down //public, default, private,protected
+    public   void  cal(){    // static key----> note it down //public, default, private,protected
         System.out.println("moolyaed");
 
     }
@@ -12,7 +12,7 @@ public class my_own_class {
         System.out.println("india");
     }
     public static void main(String[] args) {
-
+   
 
 
     }

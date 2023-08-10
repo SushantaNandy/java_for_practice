@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java_class-master.iml" filepath="$PROJECT_DIR$/java_class-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/placement_concepts/placement_concepts.iml" filepath="$PROJECT_DIR$/placement_concepts/placement_concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomorrow_class/tomorrow_class.iml" filepath="$PROJECT_DIR$/tomorrow_class/tomorrow_class.iml" />
     </modules>
   </component>
 </project>

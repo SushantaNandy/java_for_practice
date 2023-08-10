@@ -5,6 +5,7 @@ public class acm2 {
         return name;
     }
     public void setname(String name){    // using setter
+
         this.name= name;
     }
 }

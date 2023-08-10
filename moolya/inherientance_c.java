@@ -16,6 +16,7 @@ class nii1 extends suri3{      //child
 }
 class har1 extends nii1{
     public int cal2(int x,int y){
+
         return x*y;
     }
 }
