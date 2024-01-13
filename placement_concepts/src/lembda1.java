@@ -19,7 +19,8 @@ public class lembda1 {
         long j=arr.stream().filter(s -> s.startsWith("A")).count();
         System.out.println(j);
 
-        Stream.of("Abhay","sushanta","suman","Luma").filter(s -> s.startsWith("A"));
+        System.out.println(Stream.of("Abhay","sushanta","suman","Luma").
+                filter(s -> s.startsWith("A")).count());
 
         //terminal operation will only execute only when it return true for any given conditions.
        long count2= Stream.of("Abhay","sushanta","suman","Luma").filter(s ->

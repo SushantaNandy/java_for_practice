@@ -25,6 +25,8 @@ public class overloaded_constructor_with_inheriantance {
 		base_class1 bs= new base_class1(4);
 		derived_class1 s= new derived_class1();
 		//If we want to invoke the overloaded constructor from derived class we need to have "super" keyword
+		int[] arr=new int[3];
+
 	}
 
 }

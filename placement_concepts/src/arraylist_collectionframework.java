@@ -6,7 +6,8 @@ public class arraylist_collectionframework {
         arr.add(0,9);
         arr.add(1,3);
         arr.add(2,2);
-        arr.add(3,9);
+        arr.add(3,9);   // 5--->6--->5+5=10 o(n)
+        // 1,10,2,3,4,5,6
         ArrayList<Integer> arr1=new ArrayList<>(200);
         arr1.add(12); arr1.add(23); arr1.add(62); arr1.add(52);
         arr.addAll(arr1);
